@@ -17,6 +17,10 @@ public class TestController {
 		emp.setDesignation("manager");
 		emp.setEmpId("1");
 		emp.setSalary(3000);
+		emp.setName("emp2");
+		emp.setDesignation("staff");
+		emp.setEmpId("2");
+		emp.setSalary(4000);
 
 		return emp;
 	}
